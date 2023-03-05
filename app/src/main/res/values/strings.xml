@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">PerennialsysWeather</string>
+    <string name="perennialsys_weather">Perennialsys Weather</string>
+    <string name="full_name">Full Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="user_name">User Name</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account ? Sign Up</string>
 </resources>

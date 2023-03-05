@@ -1,7 +1,8 @@
-package com.perennialsys.weather
+package com.perennialsys.weather.activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.perennialsys.weather.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
